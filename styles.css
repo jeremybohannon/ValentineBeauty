@@ -69,3 +69,16 @@ footer {
   text-decoration: none;
   margin: 1rem;
 }
+
+.anchor-tag {
+  color: black;
+}
+
+.info-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mt1 {
+  margin-top: 1rem;
+}
